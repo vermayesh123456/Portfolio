@@ -18,13 +18,13 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 90%;
-    height: 87vh;
+    width: 1564px;
+    height: 722px;
     align-items: center;
     justify-content: center;
     overflow: hidden;
     border-radius: 20px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 20px black;
     padding: 10px;
   } 
 .box1{
@@ -33,13 +33,13 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 1564px;
-    height: 722px;
+    width: 1558px;
+    height: 718px;
     align-items: center;
     justify-content: center;
     overflow: hidden;
     border-radius: 20px;
-    box-shadow: 3px 3px 5px black;
+    /* box-shadow: 3px 3px 20px black; */
     padding: 10px;
     z-index: 1;
 }
